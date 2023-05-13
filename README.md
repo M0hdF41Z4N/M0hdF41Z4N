@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on project with Amazing Ideas.
 - 🚀 I’m currently looking for a Web Developer role.
 - 💬 Ask me about Development , Problem Solving , Cyber Security.
-- 📫 How to reach me: 
 - ⚡ Fun fact: Love playing chess and working on new techs.
+<!-- - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
+
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)]()
+
+<!-- For Leetcode -->
+<!-- https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black -->
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=M0hdF41Z4N)]()
 
