@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on project with Amazing Ideas.
 - 🚀 I’m currently looking for a Web Developer role.
 - 💬 Ask me about Development , Problem Solving , Cyber Security.
-- ⚡ Fun fact: Love playing chess and working on new techs.
+- ⚡ Fun fact: Love playing Chess/Football and working on new techs.
 <!-- - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
 
 <!-- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
