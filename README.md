@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently working on MERN MongoDB,Express, ReactJS, NodeJS.
 - 👯 I’m looking to collaborate on project with Amazing Ideas.
-- 🚀 I’m currently looking for a Full Stack Web Developer role.
+- 🚀 I’m currently looking for a Software Engineer role.
 - 💬 Ask me about Development , Problem Solving , Cyber Security.
 - ⚡ Fun fact: Love playing Chess/Football and working on new techs.
 <!-- - 📫 How to reach me: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]() -->
